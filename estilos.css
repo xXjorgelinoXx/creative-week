@@ -1,0 +1,16 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Evita las barras de desplazamiento */
+    color: #000;
+}
+
+body{
+    background-image: url(fondo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
